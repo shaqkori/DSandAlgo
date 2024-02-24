@@ -1,0 +1,3 @@
+This is me documenting my progress learning data structures and algorithms 
+for simple searching algoriths to using data concept like hash maps in the 
+most efficient time complexity. 
