@@ -1,5 +1,5 @@
 function palindrome (str){
-    const stack = []
+    
     word = str.trim().toLowerCase()
     if (word.length % 2 !== 0 ){
         return false;
